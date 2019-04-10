@@ -11,7 +11,7 @@ class App < Sinatra::Base
   end 
   
   get'/favorite-song' do 
-    "Dedication - Nipsey Hussle feat. Kendrick Lamar"
+    "My favorite song is Dedication - Nipsey Hussle feat. Kendrick Lamar"
   end 
   
   
