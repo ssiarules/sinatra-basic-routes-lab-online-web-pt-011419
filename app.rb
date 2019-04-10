@@ -10,6 +10,9 @@ class App < Sinatra::Base
     "My hometown is Irvington, NJ"
   end 
   
+  get'favorite-song' do 
+    "Dedication - Nipsey Hussle feat. Kendrick Lamar"
+  end 
   
   
 end
